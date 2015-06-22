@@ -1,4 +1,1 @@
-# hello-world
-tutorial repo 
-first changes and commit
-Just added new comment for commit training
+http://gyazo.com/65ed1dad4602579e4d122b35412e54cd 
